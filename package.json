@@ -1,0 +1,26 @@
+{
+"name": "ak48-98uik",
+"version": "1.0.0",
+"description": "The Personalized News Aggregator uses artificial intelligence to curate and recommend news articles based on user interests, preferences, and browsing history, delivering tailored news content to users.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/tu5881hj/AI-Driven-Personalized-News-Aggregator.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "tu5881hj",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
